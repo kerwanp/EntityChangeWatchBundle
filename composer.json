@@ -1,5 +1,5 @@
 {
-  "name": "actiane/entity-change-watch-bundle",
+  "name": "martinax/entity-change-watch-bundle",
   "license": "MIT",
   "type": "symfony-bundle",
   "description": "Allows you to listen to the life cycle of your entities",
