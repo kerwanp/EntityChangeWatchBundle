@@ -1,5 +1,5 @@
 {
-  "name": "actiane/entity-change-watch-bundle",
+  "name": "kerwanp/entity-change-watch-bundle",
   "license": "MIT",
   "type": "symfony-bundle",
   "description": "Allows you to listen to the life cycle of your entities",
@@ -16,7 +16,7 @@
   "require": {
     "php": "^7.4",
     "symfony/framework-bundle": "^4.1|^5.1",
-    "doctrine/orm": "^2.7.0",
+    "doctrine/orm": "^2.7.0|^3.0",
     "doctrine/doctrine-bundle": "^2.0",
     "symfony/property-access": "^4.1|^5.1"
   },
